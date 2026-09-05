@@ -85,7 +85,10 @@ Ecommerce-sales-analysis/
 │
 ├── report/
 │   ├── project_report.md
-│   └── execution_output.png
+│   ├── execution_output_1.png
+│   ├── execution_output_2.png
+│   ├── execution_output_3.png
+│   └── execution_output_4.png
 │
 ├── .gitignore
 ├── README.md
@@ -286,7 +289,13 @@ This shows significant variation in sales performance across the analyzed months
 
 The following screenshot demonstrates the successful execution of the complete data analysis pipeline, including data loading, cleaning, analysis, visualization generation, and key insights.
 
-![Program Execution](report/execution_output.png)
+![Program Execution - Part 1](report/execution_output_1.png)
+
+![Program Execution - Part 2](report/execution_output_2.png)
+
+![Program Execution - Part 3](report/execution_output_3.png)
+
+![Program Execution - Part 4](report/execution_output_4.png)
 
 ### Sales by Product
 
@@ -379,7 +388,13 @@ python main.py
 
 The execution screenshot provides evidence of successful data processing, calculations, visualization generation, and insight generation.
 
-![Execution Output](report/execution_output.png)
+![Execution Output - Part 1](report/execution_output_1.png)
+
+![Execution Output - Part 2](report/execution_output_2.png)
+
+![Execution Output - Part 3](report/execution_output_3.png)
+
+![Execution Output - Part 4](report/execution_output_4.png)
 
 ---
 

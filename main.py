@@ -3,7 +3,11 @@ import matplotlib.pyplot as plt
 import os
 
 # PROJECT SETUP
-DATA_FILE = os.path.join(os.path.dirname(__file__), "data.csv")
+DATA_FILE = os.path.join(
+    os.path.dirname(__file__),
+    "data",
+    "data.csv"
+)
 OUTPUT_FOLDER = "visualizations"
 
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
